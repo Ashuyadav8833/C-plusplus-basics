@@ -15,5 +15,5 @@ This repository contains **C++ programs**, structured from **beginner to advance
    g++ filename.cpp -o output
    ./output
 
-##🌟 Contribute & Support
+## 🌟 Contribute & Support
    If you find this helpful, give it a star ⭐ and feel free to contribute!
